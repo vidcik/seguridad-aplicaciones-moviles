@@ -18,7 +18,7 @@ recursos/
 
 ## 👥 Integrantes
 - Victor
-- Jhoreinisa
+- Jhorenis
 
 ## 🎯 Objetivo
 Investigar, analizar y exponer los principales riesgos, vulnerabilidades y mecanismos de protección en aplicaciones móviles, abordando temas relacionados con autenticación, protección de datos, permisos, cifrado, ataques comunes y buenas prácticas de seguridad en entornos Android e iOS.
